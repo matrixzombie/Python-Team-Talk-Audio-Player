@@ -1,0 +1,1 @@
+vlc.exe --config vlcrc

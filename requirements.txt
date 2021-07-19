@@ -1,0 +1,3 @@
+keyboard
+psutil
+youtube-search
